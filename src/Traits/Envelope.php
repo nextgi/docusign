@@ -1,4 +1,4 @@
-<?php namespace Tjphippen\Docusign\Traits;
+<?php namespace Nextgi\Docusign\Traits;
 
 use Docusign;
 use Illuminate\Support\Facades\Config;

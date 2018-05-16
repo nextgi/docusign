@@ -1,4 +1,4 @@
-<?php namespace Tjphippen\Docusign;
+<?php namespace Nextgi\Docusign;
 
 use GuzzleHttp\Client;
 
